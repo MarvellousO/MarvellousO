@@ -24,7 +24,7 @@ Hi! My name is Marvellous onajobi. I'm a student at Montgomery College, speciali
 
 ## Social Links
 
-- **LinkedIn:** [Find me here](#)  
+- **LinkedIn:** www.linkedin.com/in/marvellous-onajobi-473b03199 
 - **Personal Website:** Coming soon!
 
 ---
