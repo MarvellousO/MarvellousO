@@ -1,16 +1,38 @@
-## Hi there 👋
+# MarvellousO – InfoSystems & Sciences Student Portfolio
 
-<!--
-**MarvellousO/MarvellousO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi! My name is Marvellous onajobi. I'm a student at Montgomery College, specializing in Information Science within the InfoSystems and Sciences program. My passion for technology is driven by curiosity, creativity, and inspiration from my hobbies, interests, and the people around me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills & Technologies
+
+- **Programming Languages:** Python, R, Java, JavaScript  
+- **Web Development:** HTML, CSS  
+- **Other Interests:** Sports, Music, Walking trails, Reading
+
+---
+
+## Notable Projects
+
+- **Website Development:** Personal and academic web projects
+- **EDA (Exploratory Data Analysis):** Data-driven insights using Python and R
+- **SP Games:** Simple Programming Games for learning and fun
+
+---
+
+## Social Links
+
+- **LinkedIn:** [Find me here](#)  
+- **Personal Website:** Coming soon!
+
+---
+
+## Fun Fact / Motto
+
+> "I find a lot of my inspiration from my hobbies and interests, as well as the people around me."
+
+---
+
+Feel free to explore my projects or reach out for collaboration!
